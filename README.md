@@ -1,0 +1,2 @@
+# simplegrad
+Micrograd Re-implementation
